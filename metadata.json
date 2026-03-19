@@ -1,0 +1,5 @@
+{
+  "name": "SwiftParse API",
+  "description": "A high-speed backend image parsing service powered by Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
